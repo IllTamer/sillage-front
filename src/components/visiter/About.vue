@@ -26,7 +26,9 @@
             </div>
             <br>
             <span class="indent">
-              本站于 2022.05 期间完成，项目在 <a href="https://github.com/IllTamer/sillage">Github</a>
+              本站于 2022.05 期间完成，项目在 Github
+              <a href="https://github.com/IllTamer/sillage-front" target="_blank">[前端]</a>
+              <a href="https://github.com/IllTamer/sillage-rear" target="_blank">[后端]</a>
               上开源。如果有需要，您可以扫描底部 / 文章下方二维码添加本人微信进行交流。望本站的内容能对您有所有帮助。
             </span>
           </span>
